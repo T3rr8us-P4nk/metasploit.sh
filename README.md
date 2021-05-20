@@ -11,5 +11,9 @@ $ apt upgrade
 
 $ apt install git 
 
-$ git clone 
+$ git clone https://github.com/T3rr8us-P4nk/metasploit.sh.git 
+
+$ cd metasploit.sh
+
+$ bash metasploit.sh
  
